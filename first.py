@@ -6,3 +6,7 @@ def hello():
 
 def windows()
     print("hello windows")
+
+def linux()
+	print("hello linux ")
+	print("hello windows")
