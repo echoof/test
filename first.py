@@ -10,3 +10,7 @@ def windows()
 def linux()
 	print("hello linux ")
 	print("hello windows")
+
+
+def new_function():
+	print("new function")
